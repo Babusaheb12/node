@@ -14,3 +14,5 @@ POST /api/users - create a new users.
 PATCH /api/users - edit the user with the ID
 
 DELETE /api/USERS - DDELETE the user with id ID
+
+npm i nodemon
