@@ -1,0 +1,31 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "Learn Node.js from beginner to advanced with hands-on projects.",
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "backend",
+    "express",
+    "mongodb",
+    "api",
+    "tutorial",
+    "course",
+    "learning"
+  ],
+  "homepage": "https://github.com/Babusaheb12/node#readme",
+  "bugs": {
+    "url": "https://github.com/Babusaheb12/node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babusaheb12/node.git"
+  },
+  "license": "ISC",
+  "author": "Babu Saheb",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
